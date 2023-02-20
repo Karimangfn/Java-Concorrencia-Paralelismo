@@ -7,8 +7,7 @@ import java.util.concurrent.TimeUnit;
 public class CountDownLatch_1 {
 
 	private static volatile int i = 0;
-	private static CountDownLatch latch = new CountDownLatch(3); //Server para rodar uma tarefa uma quantidade de vezes, depois acaba
-
+	private static CountDownLatch latch = new CountDownLatch(3);
 	public static void main(String[] args) {
 		ScheduledExecutorService executor = 
 				Executors.newScheduledThreadPool(3);
