@@ -12,7 +12,7 @@ Esse repositório apresenta trabalhos e projetos desenvolvidos para prática e a
 
 ## 💻 Exercicios e Projetos
 
-Para acessar os repositórios com os códigos fonte dos projetos, basta clicar no link correspondente:
+Para acessar os repositórios com os códigos fonte, basta clicar no link correspondente:
 
 - [Exercicio 1](https://github.com/Karimangfn/Java-Concorrencia-Paralelismo/tree/main/Exercicios/Exercicio%201)
 - [Exercicio 2](https://github.com/Karimangfn/Java-Concorrencia-Paralelismo/tree/main/Exercicios/Exercicio%202)
