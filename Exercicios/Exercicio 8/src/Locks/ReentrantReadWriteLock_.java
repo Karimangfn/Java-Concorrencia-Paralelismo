@@ -14,7 +14,7 @@ private static int i = -1;
     ExecutorService executor = Executors.newCachedThreadPool();
     
     Runnable r1 = () -> {
-      Lock writeLock = lock.writeLock(); //Lock de escrita sempre escreve primeiro
+      Lock writeLock = lock.writeLock();
       writeLock.lock();
       String name = Thread.currentThread().getName();
       System.out.println(name + " - Escrevendo: " + i);
@@ -24,7 +24,7 @@ private static int i = -1;
     };
     
     Runnable r2 = () -> {
-      Lock readLock = lock.readLock(); //Lock de leitura não bloqueia um Lock de Escrita, ja que altera o valor de escrita
+      Lock readLock = lock.readLock();
       readLock.lock();
       System.out.println("Lendo: " + i);
       System.out.println("Lido: " + i);
