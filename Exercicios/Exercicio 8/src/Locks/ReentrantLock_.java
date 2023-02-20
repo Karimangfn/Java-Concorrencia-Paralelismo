@@ -7,7 +7,7 @@ public class ReentrantLock_ {
 
 	private static int i = -1;
 
-	private static Lock lock = new ReentrantLock(); //Pode ser chamado de linha a linha, em vez de um bloco inteiro, no caso do Synchronized
+	private static Lock lock = new ReentrantLock();
 
 	public static void main(String[] args) {
 		ExecutorService executor = Executors.newCachedThreadPool();
