@@ -12,9 +12,9 @@ public class Executor_Scheduled {
 	public static void main(String[] args) throws InterruptedException, ExecutionException {
 		ScheduledExecutorService executor = Executors.newScheduledThreadPool(3);
 
-		//executor.schedule(new Tarefa(), 2, TimeUnit.SECONDS); //Faz apenas uma execução
-		//executor.scheduleAtFixedRate(new Tarefa(), 0, 1, TimeUnit.SECONDS); //Faz uma execução com uma taxa de execução fixa
-		executor.scheduleWithFixedDelay(new Tarefa(), 0, 1, TimeUnit.SECONDS); //Sempre tem um itervalo fixo entre as tarefas
+		//executor.schedule(new Tarefa(), 2, TimeUnit.SECONDS);
+		//executor.scheduleAtFixedRate(new Tarefa(), 0, 1, TimeUnit.SECONDS); 
+		executor.scheduleWithFixedDelay(new Tarefa(), 0, 1, TimeUnit.SECONDS);
 
 		executor.shutdown();
 	}
