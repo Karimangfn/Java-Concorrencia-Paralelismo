@@ -14,7 +14,7 @@ public class Executor_SingleThread {
 
 			Future<String> future = executor.submit(new Tarefa()); 
 
-			System.out.println(future.isDone()); //Para ver se a tarefa foi executada
+			System.out.println(future.isDone()); // Para ver se a tarefa foi executada
 			//System.out.println(future.get());
 			System.out.println(future.get(5, TimeUnit.SECONDS));
 			System.out.println(future.isDone());
