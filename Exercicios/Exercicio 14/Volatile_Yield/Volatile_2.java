@@ -1,6 +1,6 @@
 import java.lang.Thread.State;
 
-public class Volatile2 {
+public class Volatile_2 {
 
 	private static volatile int numero = 0;
 	private static volatile boolean preparado = false;
