@@ -8,11 +8,9 @@ public class SynchronizarColecoes {
 
 	public static void main(String[] args) throws InterruptedException {
 		lista = Collections.synchronizedList(lista);
-		// Utilize a versão do synchronizedXXX de acordo com
-		// seu tipo de coleção!
-		//    lista = Collections.synchronizedCollection(lista);
-		//    lista = Collections.synchronizedMap(lista);
-		//    lista = Collections.synchronizedSet(lista);
+		//lista = Collections.synchronizedCollection(lista);
+		//lista = Collections.synchronizedMap(lista);
+		//lista = Collections.synchronizedSet(lista);
 
 		MeuRunnable runnable = new MeuRunnable();
 		Thread t0 = new Thread(runnable);
