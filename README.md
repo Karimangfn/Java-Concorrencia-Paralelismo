@@ -10,7 +10,7 @@
 
 Esse repositório apresenta trabalhos e projetos desenvolvidos para prática e aprendizagem de Concorrência, Paralelismo, Processos e Threads com uso da Linguagem Java
 
-## 💻 Projetos
+## 💻 Exercicios e Projetos
 
 Para acessar os repositórios com os códigos fonte dos projetos, basta clicar no link correspondente:
 
@@ -28,6 +28,7 @@ Para acessar os repositórios com os códigos fonte dos projetos, basta clicar n
 - [Exercicio 12](https://github.com/Karimangfn/Java-Concorrencia-Paralelismo/tree/main/Exercicios/Exercicio%2012)
 - [Exercicio 13](https://github.com/Karimangfn/Java-Concorrencia-Paralelismo/tree/main/Exercicios/Exercicio%2013)
 - [Exercicio 14](https://github.com/Karimangfn/Java-Concorrencia-Paralelismo/tree/main/Exercicios/Exercicio%2014)
+- [Projeto]()
 </p>
 
 
