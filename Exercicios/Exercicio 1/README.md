@@ -1,4 +1,4 @@
-## 💻 Exercicio
+## 💻 Exercício
 
 Exercício prático para uso de Classes Atômicas (AtomicInteger , AtomicLong , AtomicBoolean e AtomicReference)
 
