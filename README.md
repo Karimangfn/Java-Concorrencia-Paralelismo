@@ -10,7 +10,7 @@
 
 Esse repositório apresenta trabalhos e projetos desenvolvidos para prática e aprendizagem de Concorrência, Paralelismo, Processos e Threads com uso da Linguagem Java
 
-## 💻 Exercicios e Projetos
+## 💻 Exercicios
 
 Para acessar os repositórios com os códigos fonte, basta clicar no link correspondente:
 
