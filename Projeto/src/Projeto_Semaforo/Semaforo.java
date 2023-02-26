@@ -24,24 +24,24 @@ public class Semaforo extends JFrame {
 	public Semaforo() {
 		instance = this;
 		setTitle("Semaforo");
-		setSize(600, 500);
+		setSize(450, 450);
 		setLocationRelativeTo(null);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		setVisible(true);
 	}
 
 	public void paint(Graphics g) {
-		g.drawRect(250, 150, 100, 220);
-		g.drawRect(285, 370, 30, 100);
-		g.drawOval(270, 160, 60, 60);
-		g.drawOval(270, 230, 60, 60);
-		g.drawOval(270, 300, 60, 60);
+		g.drawRect(180, 90, 100, 220);
+		g.drawRect(215, 310, 30, 100);
+		g.drawOval(200, 100, 60, 60); //Retirar para tirar bolinha do Semaforo
+		g.drawOval(200, 170, 60, 60); //Retirar para tirar bolinha do Semaforo
+		g.drawOval(200, 240, 60, 60); //Retirar para tirar bolinha do Semaforo
 		g.setColor(colorvermelho);
-		g.fillOval(270, 160, 60, 60);
+		g.fillOval(200, 100, 60, 60);
 		g.setColor(coloramarelo);
-		g.fillOval(270, 230, 60, 60);
+		g.fillOval(200, 170, 60, 60);
 		g.setColor(colorverde);
-		g.fillOval(270, 300, 60, 60);
+		g.fillOval(200, 240, 60, 60);
 	}
 	
 	private static void ChangeCollor() {
