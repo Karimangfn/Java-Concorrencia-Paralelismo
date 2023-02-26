@@ -8,7 +8,7 @@
 
 ## 🗃️ Repositório
 
-Esse repositório apresenta trabalhos e projetos desenvolvidos para prática e aprendizagem de Concorrência, Paralelismo, Processos e Threads com uso da Linguagem Java
+Esse repositório apresenta trabalhos e projetos desenvolvidos para prática e aprendizagem de Concorrência, Paralelismo, Processos e Threads com uso da Linguagem de Programação Java
 
 ## 💻 Exercícios
 
