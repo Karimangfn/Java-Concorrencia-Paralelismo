@@ -1,3 +1,5 @@
+package Thread;
+
 public class MeuRunnable implements Runnable {
 
 	@Override
