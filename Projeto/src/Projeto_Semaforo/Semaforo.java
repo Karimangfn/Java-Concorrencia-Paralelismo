@@ -33,9 +33,9 @@ public class Semaforo extends JFrame {
 	public void paint(Graphics g) {
 		g.drawRect(180, 90, 100, 220);
 		g.drawRect(215, 310, 30, 100);
-		g.drawOval(200, 100, 60, 60); //Retirar para tirar bolinha do Semaforo
-		g.drawOval(200, 170, 60, 60); //Retirar para tirar bolinha do Semaforo
-		g.drawOval(200, 240, 60, 60); //Retirar para tirar bolinha do Semaforo
+		g.drawOval(200, 100, 60, 60);
+		g.drawOval(200, 170, 60, 60);
+		g.drawOval(200, 240, 60, 60);
 		g.setColor(colorvermelho);
 		g.fillOval(200, 100, 60, 60);
 		g.setColor(coloramarelo);
