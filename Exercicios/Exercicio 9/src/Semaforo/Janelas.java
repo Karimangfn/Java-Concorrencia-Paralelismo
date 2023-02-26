@@ -1,3 +1,5 @@
+package Semaforo;
+
 import java.awt.Font;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
