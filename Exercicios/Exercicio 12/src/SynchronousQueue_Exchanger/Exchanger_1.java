@@ -3,7 +3,6 @@ package SynchronousQueue_Exchanger;
 import java.util.concurrent.Exchanger;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-import java.util.concurrent.SynchronousQueue;
 
 public class Exchanger_1 {
 
@@ -43,6 +42,5 @@ public class Exchanger_1 {
 			return "Exceção";
 		}
 	}
-
 
 }
