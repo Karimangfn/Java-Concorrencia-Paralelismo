@@ -1,3 +1,5 @@
+package Synchronized;
+
 public class Synchronized {
 
 	static int i = -1;
