@@ -22,16 +22,19 @@ public class Synchronized {
 		/* 1)
 		static Object lock1 = new Object();
 		static Object lock2 = new Object();
+		
 		@Override
 		public void run() {
 			synchronized(lock1) {
 				i++;
 				System.out.println(Thread.currentThread().getName() + ":" + i);	
 			}
+			
 			synchronized(lock2) {
 				i++;
 				System.out.println(Thread.currentThread().getName() + ":" + i);	
-			}		
+			}
+			
 		}
 		 */
 
