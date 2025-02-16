@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="#">Repositório</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-exercícios">Exercícios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
- </p>
- 
- <br>
-
 ## 🗃️ Repositório
 
 Esse repositório apresenta trabalhos e projetos desenvolvidos para prática e aprendizagem de Concorrência, Paralelismo, Processos e Threads com uso da Linguagem de Programação Java
