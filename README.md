@@ -2,28 +2,26 @@
 
 Esse repositório apresenta trabalhos e projetos desenvolvidos para prática e aprendizagem de Concorrência, Paralelismo, Processos e Threads com uso da Linguagem de Programação Java
 
-## 💻 Exercícios
+## ▶️ Como Executar os Códigos Java
 
-Para acessar os repositórios com os códigos fonte, basta clicar no link correspondente:
+Antes de executar o código, certifique-se de que você tem o seguinte instalado:
 
-- [Exercicio 1](https://github.com/Karimangfn/Java-Concorrencia-Paralelismo/tree/main/Exercicios/Exercicio%201)
-- [Exercicio 2](https://github.com/Karimangfn/Java-Concorrencia-Paralelismo/tree/main/Exercicios/Exercicio%202)
-- [Exercicio 3](https://github.com/Karimangfn/Java-Concorrencia-Paralelismo/tree/main/Exercicios/Exercicio%203)
-- [Exercicio 4](https://github.com/Karimangfn/Java-Concorrencia-Paralelismo/tree/main/Exercicios/Exercicio%204)
-- [Exercicio 5](https://github.com/Karimangfn/Java-Concorrencia-Paralelismo/tree/main/Exercicios/Exercicio%205)
-- [Exercicio 6](https://github.com/Karimangfn/Java-Concorrencia-Paralelismo/tree/main/Exercicios/Exercicio%206)
-- [Exercicio 7](https://github.com/Karimangfn/Java-Concorrencia-Paralelismo/tree/main/Exercicios/Exercicio%207)
-- [Exercicio 8](https://github.com/Karimangfn/Java-Concorrencia-Paralelismo/tree/main/Exercicios/Exercicio%208)
-- [Exercicio 9](https://github.com/Karimangfn/Java-Concorrencia-Paralelismo/tree/main/Exercicios/Exercicio%209)
-- [Exercicio 10](https://github.com/Karimangfn/Java-Concorrencia-Paralelismo/tree/main/Exercicios/Exercicio%2010)
-- [Exercicio 11](https://github.com/Karimangfn/Java-Concorrencia-Paralelismo/tree/main/Exercicios/Exercicio%2011)
-- [Exercicio 12](https://github.com/Karimangfn/Java-Concorrencia-Paralelismo/tree/main/Exercicios/Exercicio%2012)
-- [Exercicio 13](https://github.com/Karimangfn/Java-Concorrencia-Paralelismo/tree/main/Exercicios/Exercicio%2013)
-- [Exercicio 14](https://github.com/Karimangfn/Java-Concorrencia-Paralelismo/tree/main/Exercicios/Exercicio%2014)
-- [Projeto](https://github.com/Karimangfn/Java-Concorrencia-Paralelismo/tree/main/Projeto)
-</p>
+- [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) (versão 8 ou superior)
 
+1. Abra um terminal e navegue até a pasta onde está o arquivo:
+   ```sh
+   cd caminho/do/arquivo
+   ```
 
+2. Compile o arquivo Java:
+   ```sh
+   javac NomeDoArquivo.java
+   ```
+
+3. Execute o programa:
+   ```sh
+   java NomeDoArquivo
+   ```
 
 ## 🚀 Tecnologias
 
